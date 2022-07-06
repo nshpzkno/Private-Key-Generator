@@ -9,4 +9,4 @@ How to use:
 4. Run generator.py
 5. Your premium links will be generated in to the premium.txt file
 
-P.S.: Sometimes there is an error, and not every link is generated, if something like this happens, repeat the proces with only the uncreated links in the links.txt file. If you are creating many links at once I recommend to use VPN or Proxie, which you will change periodically.
+P.S.: Sometimes there is an error, and not every link is generated, if something like this happens, repeat the proces with only the uncreated links in the links.txt file. If you are creating many links at once I recommend to use VPN or Proxy, which you will change periodically.
